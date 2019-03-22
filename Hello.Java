@@ -10,4 +10,4 @@ System.out.println("Value is equla to 1");
 	
 	}
 }
-
+inserted new line here
